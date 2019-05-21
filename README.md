@@ -3,6 +3,5 @@
 I tried to build a mobile app with Flutter without knowing anything about it in a few hours
 
 ## Screenshot
-![Alt text](screenshot/screenshot1.png?raw=true "A screenshot")
-![Alt text](screenshot/screenshot2.png?raw=true "Another screenshot")
-
+<img src="screenshot/screenshot1.png" width="300px">
+<img src="screenshot/screenshot2.png" width="300px">
